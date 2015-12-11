@@ -1,6 +1,6 @@
 package zoo;
 
-public class Animal {
+public class Animal{
 	
 	private int poids;
 	private String nom;
